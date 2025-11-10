@@ -29,10 +29,6 @@ An up-to-date list of open-source AI agent projects worth paying attention to an
 
 一个持续更新的开源AI智能体项目清单，值得关注和学习
 
-## 其他项目
-
-- [BettaFish](https://github.com/666ghj/BettaFish)
-
 ## 代码智能体
 
 - [trae-agent](https://github.com/bytedance/trae-agent)
@@ -46,4 +42,6 @@ An up-to-date list of open-source AI agent projects worth paying attention to an
 - [langmanus](https://github.com/Darwin-lfl/langmanus)
 - [Multi-Agent-deep-researcher-mcp-windows-linux](https://github.com/patchy631/ai-engineering-hub/tree/main/Multi-Agent-deep-researcher-mcp-windows-linux)
 
-## 框架
+## 其他项目
+
+- [BettaFish](https://github.com/666ghj/BettaFish)
