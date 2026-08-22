@@ -20,6 +20,7 @@ An up-to-date list of open-source AI agent projects worth paying attention to an
 ## Other Projects
 
 - [BettaFish](https://github.com/666ghj/BettaFish)
+- [Orkas](https://github.com/Orkas-AI/Orkas) — Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 
 ---
 
@@ -45,3 +46,4 @@ An up-to-date list of open-source AI agent projects worth paying attention to an
 ## 其他项目
 
 - [BettaFish](https://github.com/666ghj/BettaFish)
+- [Orkas](https://github.com/Orkas-AI/Orkas) — 开源、本地优先的桌面 AI 团队，由 Commander 在一个对话中协调多个专业 Agent。
