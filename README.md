@@ -19,6 +19,7 @@ An up-to-date list of open-source AI agent projects worth paying attention to an
 
 ## Other Projects
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)
 - [BettaFish](https://github.com/666ghj/BettaFish)
 
 ---
@@ -44,4 +45,5 @@ An up-to-date list of open-source AI agent projects worth paying attention to an
 
 ## 其他项目
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)
 - [BettaFish](https://github.com/666ghj/BettaFish)
